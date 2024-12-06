@@ -85,4 +85,4 @@ Busco siempre mejorar mis habilidades y expandir mis conocimientos en áreas com
       <div align="center">
     </p>
         
-![Mi GitHub stats](https://github-readme-stats.vercel.app/api?username=sanalexito&show_icons=true&theme=radical)
+![Mi GitHub stats](https://github-readme-stats.vercel.app/api?username=RushhMax&show_icons=true&theme=radical)
