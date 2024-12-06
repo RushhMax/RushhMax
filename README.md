@@ -1,28 +1,88 @@
-  ## Hi there 👋
 
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
-![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
-![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
-[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776)
-
-<details>
-  <summary>Github Stats ⚡</summary>
+<!-- Title -->
+<h1 align="center">Soy Rushell Zavalaga
+  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
+       width="30px">
   
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=tandpfun&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tandpfun&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-</details>
 
-<!--
-**RushhMax/RushhMax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img src="https://th.bing.com/th/id/R.fc42c65da98d06f1f23f682eee88c8db?rik=t2V%2bAOZ9S1OWqQ&riu=http%3a%2f%2fwww.bizkloud.com%2fassets%2fimg%2fbanner%2fcustom-software.jpg&ehk=GArTvJONpWjRuif1owWxRVGzS9U0Ua97aT6WzUOwuGk%3d&risl=&pid=ImgRaw&r=0" 
+       align="center">
+  </h1>
 
-Here are some ideas to get you started:
+<h2>Sobre mí</h2>
+Soy una persona apasionada por la programación y el desarrollo de software, con una fuerte inclinación por el aprendizaje continuo. Actualmente, estoy trabajando en diversos proyectos que abarcan desde algoritmos de estructuras de datos, como árboles rojos-negros y árboles QuadTree, hasta la implementación de soluciones prácticas usando tecnologías como C++, Python, y frameworks como Flask y React.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A lo largo de mi carrera, he abordado problemas complejos en plataformas como Codeforces y UVA, mejorando mis habilidades en programación competitiva, y he trabajado con conceptos avanzados en teoría de la computación y sistemas operativos. Me interesa especialmente comprender en profundidad la teoría detrás de las estructuras de datos dinámicas y sus aplicaciones en problemas reales.
+
+Además, disfruto de realizar análisis de complejidad y optimización en los proyectos en los que trabajo, utilizando herramientas como SonarQube y SonarScanner para evaluar la calidad del código. Me apasiona la visualización de datos y la creación de interfaces gráficas, especialmente a través de bibliotecas como Pygame y Graphviz, lo que me permite integrar conceptos teóricos con resultados visuales.
+
+Busco siempre mejorar mis habilidades y expandir mis conocimientos en áreas como bases de datos NoSQL, desarrollo web, y técnicas de análisis de complejidad algorítmica. Mi objetivo es seguir creciendo como desarrollador y afrontar desafíos que me permitan aplicar mis conocimientos de manera innovadora.
+
+<!-- Quote -->
+<h2 align="center">Te paso mi código, cambiar al mundo ya dependerá de ti 🤯 🗺️ 🌐
+
+  <!-- Social Network -->
+<h1 align="center">
+<a href="https://www.instagram.com">
+  <img align="center" 
+       alt="Lunox's Instagram" 
+       width="22px" 
+       src="https://user-images.githubusercontent.com/55005374/103146167-0b04ac00-470b-11eb-84fc-db4b7299e4ef.png" />
+  </a>
+  
+<a href="www.linkedin.com/in/RushellZavalaga">
+  <img align="center" 
+       alt="Linkdein" 
+       width="22px" 
+       src="https://user-images.githubusercontent.com/55005374/103146171-312a4c00-470b-11eb-8839-992580bb8206.png" />
+  </a>
+  
+<a href="mailto:rzavalaga@unsa.edu.pe">
+  <img align="center" 
+       alt="Gmail" 
+       width="22px" 
+       src="https://user-images.githubusercontent.com/55005374/103146250-0d1b3a80-470c-11eb-8ead-a92232d45d6e.png" />
+  </a>
+</h1>
+
+
+<!-- Technical Skills que quisiera dominar -->
+<p><H3 align="center"><strong> Technical Skills: 💻 </strong></p>
+  
+  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/101125531-160e6580-35bf-11eb-8256-f599b154f3ee.png"></code>
+  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146278-8ca90980-470c-11eb-90bd-8e20951c9146.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146298-d98ce000-470c-11eb-973d-3ff9e1b90561.png"></code>
+  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146335-3d170d80-470d-11eb-9fce-ff775c77b96b.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146218-b57ccf00-470b-11eb-8fcc-aa46cab9253f.png"></code>
+  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688411-345f7280-0bc7-11eb-9513-82e0452a81eb.png"></code>
+  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/100307358-3c068b00-2f6b-11eb-9f07-e262ad248471.png"></code>
+  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686171-87cac400-0bb9-11eb-9d49-390f3543a0a6.png"></code>
+  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686553-d4170380-0bbb-11eb-94f2-c528413c7bad.png"></code>
+  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686705-d9c11900-0bbc-11eb-87f5-a149b86cde5a.png"></code>
+  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686779-5fdd5f80-0bbd-11eb-9a0b-8eb90d565518.png"></code>
+  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95687393-a2546b80-0bc0-11eb-8991-c0c72326f29c.png"></code>
+  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95687569-95844780-0bc1-11eb-8bdb-93fb29d10602.png"></code>
+  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95687639-117e8f80-0bc2-11eb-8aea-f236a8eca50b.png"></code>
+  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95687670-51de0d80-0bc2-11eb-826b-83fb8c5ec221.png"></code>
+  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/100187906-b7eecd80-2eae-11eb-8074-b65db8dfaecb.png"></code>
+  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95687701-80f47f00-0bc2-11eb-89f5-a1a8e6788aeb.png"></code>
+  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688226-c6ff1200-0bc5-11eb-82cc-33e35bcb0910.png"></code>
+  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688875-5dcdcd80-0bca-11eb-8915-b3cf9791ca3c.png"></code>
+
+  </p>
+  
+&nbsp;  
+
+
+<!-- Numeralia -->
+<H2 align="center"><strong>Github Statistics: 📈
+  </strong>
+</H2>
+    <p align="center">
+      <div align="center">
+    </p>
+        
+![Mi GitHub stats](https://github-readme-stats.vercel.app/api?username=sanalexito&show_icons=true&theme=radical)
